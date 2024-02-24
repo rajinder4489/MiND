@@ -1,0 +1,23 @@
+1. **STRING Database:** It provides information on protein-protein interactions, including both direct (physical) and indirect (functional) associations.
+
+2. **BioGRID:** A biological database that archives and disseminates genetic and protein interaction data from various model organisms.
+
+3. **KEGG (Kyoto Encyclopedia of Genes and Genomes):** It includes pathway information and interaction networks related to metabolism, genetic information processing, environmental information processing, and more.
+
+4. **HPRD (Human Protein Reference Database):** Focuses on protein-protein interactions and post-translational modifications in humans.
+
+5. **Reactome:** An open-source, curated biological pathway database that includes molecular details of various biological processes.
+
+6. **PubMed and other literature databases:** Scientific literature often contains valuable information on biological relationships. Databases like PubMed can be searched for relevant articles.
+
+7. **Gene Ontology (GO):** Provides structured, controlled vocabularies for the annotation of genes, including their molecular functions, biological processes, and cellular components.
+
+8. **NCBI Gene:** Offers information about the functions and relationships of genes, including genomic context, pathways, and interactions.
+
+9. **DrugBank:** Focuses on drug-target interactions, providing information on the relationships between drugs and their target proteins, enzymes, and transporters.
+
+10. **ChEMBL:** A database of bioactive drug-like small molecules, including their targets and the molecular pathways they are involved in.
+
+11. **BioGRID for Genetic Interactions:** BioGRID also includes genetic interactions data, offering insights into relationships between genes and their functional roles.
+
+12. **IntAct Molecular Interaction Database:** Covers various molecular interactions beyond proteins, including those involving nucleic acids, small molecules, and complex assemblies.
