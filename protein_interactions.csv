@@ -1,0 +1,11 @@
+protein_a,protein_b,organism_a,organism_b,conditions
+BRCA1,BARD1,Homo sapiens,Homo sapiens,DNA damage response
+TP53,MDM2,Homo sapiens,Homo sapiens,Cell cycle regulation
+EGFR,GRB2,Homo sapiens,Homo sapiens,Growth factor signaling
+INS,INSR,Homo sapiens,Homo sapiens,Insulin signaling
+TNF,TNFRSF1A,Homo sapiens,Homo sapiens,Inflammatory response
+AKT1,MTOR,Homo sapiens,Homo sapiens,Cell survival and growth
+MAPK1,MAPK3,Homo sapiens,Homo sapiens,MAPK signaling cascade
+IL6,IL6R,Homo sapiens,Homo sapiens,Immune response
+CDK2,CCNE1,Homo sapiens,Homo sapiens,Cell cycle progression
+STAT3,JAK2,Homo sapiens,Homo sapiens,Cytokine signaling
