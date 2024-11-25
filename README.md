@@ -1,2 +1,2 @@
-# InteractomeVault
-Unlock the Secrets of Life: Welcome to Interactome Vault, Your Gateway to Comprehensive Biomolecular Relationships.
+# Molecular Interaction Network Database (MiND)
+Unlock the secrets of life, your gateway to comprehensive biomolecular relationships.
